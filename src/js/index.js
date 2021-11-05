@@ -11,3 +11,17 @@ console.log('HELLO, It is nice to have you here, check my app and enjoy :) 🚀'
 const glassCounter = document.querySelector('.glass__counter--js');
 const buttonAdd = document.querySelector('.button-add--js');
 const buttonRemove = document.querySelector('.button-remove--js');
+
+let currentGlassCounter = 0;
+
+buttonAdd.addEventListener('click', () => {
+    currentGlassCounter++;
+    glassCounter.innerHTML = currentGlassCounter;
+});
+
+buttonRemove.addEventListener('click', () => {
+    if(currentGlassCounter > 0) {
+    currentGlassCounter--;
+    }
+    glassCounter.innerHTML = currentGlassCounter;
+});
