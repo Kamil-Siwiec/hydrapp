@@ -11,6 +11,8 @@ console.log('HELLO, It is nice to have you here, check my app and enjoy :) 🚀'
 const glassCounter = document.querySelector('.glass__counter--js');
 const buttonAdd = document.querySelector('.button-add--js');
 const buttonRemove = document.querySelector('.button-remove--js');
+const key = new Date().toLocaleString().slice(0, 10);
+
 
 let currentGlassCounter = 0;
 
