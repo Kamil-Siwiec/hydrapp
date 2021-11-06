@@ -1,8 +1,7 @@
 ![cover](https://kamil-siwiec.github.io/hydrapp/og.png)
 
 # Hydrapp 
-
-Simple toolkit for your static websites development.
+A simple app that counts how many glasses of water you drank that day. Everything is stored in localstorage. See the live view here [hydrapp](https://kamil-siwiec.github.io/hydrapp/)
 
 # Technologies and tools used:
 - HTML5, CSS3, SCSS,
