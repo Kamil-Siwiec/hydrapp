@@ -10,7 +10,7 @@ Simple toolkit for your static websites development.
 - NPM, Webpack
 
 # Screenshot:
-[hydrapp](https://kamil-siwiec.github.io/hydrapp/hydrapp.png)
+![hydrapp](https://kamil-siwiec.github.io/hydrapp/screenshot.png)
 
 ## How to use it?
 
