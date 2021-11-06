@@ -1,8 +1,16 @@
 ![cover](https://kamil-siwiec.github.io/hydrapp/og.png)
 
-# WTF Webpack Starter Kit 
+# Hydrapp 
 
 Simple toolkit for your static websites development.
+
+# Technologies and tools used:
+- HTML5, CSS3, SCSS,
+- JavaScript, ES6 
+- NPM, Webpack
+
+# Screenshot:
+[hydrapp](https://kamil-siwiec.github.io/hydrapp/hydrapp.png)
 
 ## How to use it?
 
