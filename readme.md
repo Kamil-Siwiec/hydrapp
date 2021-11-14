@@ -1,14 +1,15 @@
 ![cover](https://kamil-siwiec.github.io/hydrapp/og.png)
 
 # Hydrapp 
-A simple app that counts how many glasses of water you drank that day. Everything is stored in localstorage. See the live view here [hydrapp](https://kamil-siwiec.github.io/hydrapp/)
+A simple app that counts how many glasses of water you drank that day. Everything is stored in localstorage.
+See the live view here --> [hydrapp](https://kamil-siwiec.github.io/hydrapp/)
 
-# Technologies and tools used:
+## Technologies and tools used:
 - HTML5, CSS3, SCSS,
-- JavaScript, ES6 
+- JavaScript, ES6, 
 - NPM, Webpack
 
-# Screenshot:
+## Screenshot:
 ![hydrapp](https://kamil-siwiec.github.io/hydrapp/screenshot.png)
 
 ## How to use it?
